@@ -15,7 +15,7 @@
     "random-case": "^1.0.0",
     "cheerio": "^0.22.0",
     "canvas-filters": "^1.0.1",
-    "twemoji-parser": "^13.0.0",
+    "twemoji-parser": "^14.0.0",
     "unirest": "^0.6.0",
     "is-image": "^3.0.0",
     "brawlstars.js": "^1.0.6",
